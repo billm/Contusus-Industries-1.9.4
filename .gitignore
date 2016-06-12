@@ -45,3 +45,27 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Instance folders
+caterpillar
+crash-reports
+downloads
+enderio
+journeymap
+logs
+mods
+resourcepacks
+saves
+server-resource-packs
+shaderpacks
+.curseclient
+betterfps.txt
+minecraftinstance.json
+*.dll
+options.txt
+optionsof.txt
+optionsshaders.txt
+ReCubed.dat
+servers.date
+usercache.json
+usernamecache.json
