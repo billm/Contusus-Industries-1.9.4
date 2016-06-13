@@ -70,3 +70,4 @@ servers.dat
 usercache.json
 usernamecache.json
 *.dat
+config/JEI/worldSettings.cfg
