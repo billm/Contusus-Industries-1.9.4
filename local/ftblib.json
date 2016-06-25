@@ -1,0 +1,6 @@
+{
+  "commands": {
+    "override_list": true,
+    "override_help": true
+  }
+}
