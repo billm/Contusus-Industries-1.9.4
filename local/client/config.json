@@ -18,11 +18,11 @@
     "ftbu:guide": true,
     "ftbu:server_info": true,
     "ftbu:claimed_chunks": true,
+    "ftbu:trash_can": true,
     "ftbu:shop": true
   },
   "ftbu": {
     "render_badges": true,
-    "loaded_chunks_space_key": false,
     "light_value_texture_x": false
   }
 }

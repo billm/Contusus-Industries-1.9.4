@@ -20,7 +20,7 @@
 # Thanks to Larandar & Lunaqua for their contributions.
 -->
 <!-- Note: 'stuff' matches everything, even items that don't appear here -->
-<stuff treeVersion="1.8.0">
+<stuff treeVersion="1.10.0">
     <equipment>
         <weapon>
             <sword>
@@ -218,6 +218,7 @@
             <dragonEgg id="dragon_egg"/>
             <hiddenSilverfish id="monster_egg"/>
             <seaLantern id="sea_lantern"/>
+            <magma id="magma"/>
         </naturalBlock>
         <wool>
             <whiteWool id="wool" damage="0"/>
@@ -308,7 +309,10 @@
                         <chiseledStoneBrick id="stonebrick" damage="3"/>
                         <endStoneBricks id="end_bricks"/>
                     </stoneBricks>
-                    <netherBrick id="nether_brick"/>
+                    <netherBricks>
+                        <netherBrick id="nether_brick"/>
+                        <redNetherBrick id="red_nether_brick"/>
+                    </netherBricks>
                 </bricks>
                 <hardenedClay id="hardened_clay"/>
                 <stainedClay>
@@ -449,6 +453,8 @@
                 <stick id="stick"/>
                 <stickDict oreDictName="stickWood"/>
                 <purpurPillar id="purpur_pillar"/>
+                <netherWartBlock id="nether_wart_block"/>
+                <boneBlock id="bone_block"/>
             </constructionBlock>
             <banner>
                 <itemBanner id="banner"/>
@@ -526,6 +532,7 @@
             <slimeBlock id="slime"/>
             <barrier id="barrier"/>
             <structureBlock id="structure_block"/>
+            <structureVoid id="structure_void"/>
         </mechanism>
     </block>
     <resources>

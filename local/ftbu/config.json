@@ -24,8 +24,7 @@
     "ranks_enabled": false,
     "spawn_area_in_sp": false,
     "server_info_difficulty": true,
-    "server_info_mode": true,
-    "enable_restart_cmd_on_sp": false
+    "server_info_mode": true
   },
   "login": {
     "motd": [],
