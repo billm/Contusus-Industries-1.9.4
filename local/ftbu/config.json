@@ -6,7 +6,7 @@
     "chunk_loading": true,
     "motd": true,
     "starting_items": true,
-    "web_api": true
+    "web_api": false
   },
   "backups": {
     "backups_to_keep": 12,
