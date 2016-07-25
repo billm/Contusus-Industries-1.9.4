@@ -71,3 +71,4 @@ usercache.json
 usernamecache.json
 *.dat
 config/JEI/worldSettings.cfg
+.analytics/nl.lang2619.bagginses.gameanalytics.minecraft.MCSimpleAnalytics.properties
